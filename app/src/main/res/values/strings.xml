@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GreenEarth</string>
+    <string name="copyright_2023_ecosphere">Copyright © 2023 ECOSPHERE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dont_have_an_account">dont have an account??</string>
+    <string name="show_password">show password</string>
+    <string name="number_of_household_members">Number Of Household Members</string>
+    <string name="product_consumtion">product consumtion</string>
+    <string name="_10_m_u00b3">10 m³</string>
+    <string name="daily_usage_of_gas_and_other_fuels_at_work">Daily usage of gas and other fuels (At work))</string>
+    <string name="daily_usage_of_gas_and_other_fuels_at_home">Daily usage of gas and other fuels (At Home)</string>
+    <string name="primary_mode_of_travel">Primary Mode Of Travel</string>
+    <string name="travel_statistics">Travel statistics</string>
+    <string name="_13_m_u00b3">10 m³</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="shopping_habits">shopping habits</string>
+    <string name="methods_of_disposal">methods of disposal</string>
+    <string name="waist_bags_per_week">waist bags per week</string>
+    <string name="waste_production">Waste production</string>
+    <string name="energy_usage">Energy Usage</string>
+    <string name="product_consumption" />
+    <string name="product_consuming">product_consuming</string>
+    <string-array name="travel">
+        <item>Bus</item>
+        <item>Bicycle</item>
+        <item>Foot</item>
+        <item>Personal Car</item>
+        <item>Taxi</item>
+        <item>All of the above</item>
+    </string-array>
+</resources>
