@@ -167,8 +167,7 @@
                     android:text="Energy"
                     android:fontFamily="@font/secularone"
                     android:textColor="@color/white"
-                    android:textSize="15sp"
-                    app:drawableLeft="@drawable/baseline_directions_walk_24" />
+                    android:textSize="15sp"/>
 
                 <com.google.android.material.progressindicator.LinearProgressIndicator
 
@@ -232,8 +231,7 @@
                     android:text="Travel"
                     android:fontFamily="@font/secularone"
                     android:textColor="@color/white"
-                    android:textSize="15sp"
-                    app:drawableLeft="@drawable/baseline_directions_walk_24"/>
+                    android:textSize="15sp" />
 
                 <com.google.android.material.progressindicator.LinearProgressIndicator
                     android:paddingTop="10dp"
@@ -363,8 +361,7 @@
                     android:text="Products"
                     android:fontFamily="@font/secularone"
                     android:textColor="@color/white"
-                    android:textSize="15sp"
-                    app:drawableLeft="@drawable/baseline_directions_walk_24"/>
+                    android:textSize="15sp" />
 
 
 
@@ -432,7 +429,7 @@
                     android:fontFamily="@font/secularone"
                     android:textColor="@color/white"
                     android:textSize="15sp"
-                    app:drawableLeft="@drawable/baseline_directions_walk_24"/>
+                    />
 
                 <com.google.android.material.progressindicator.LinearProgressIndicator
 
@@ -494,8 +491,7 @@
                         android:text="Feedback and Recomendations"
                         android:fontFamily="@font/alegreyasansc_medium"
                         android:textColor="@color/white"
-                        android:textSize="20sp"
-                        app:drawableLeft="@drawable/baseline_directions_walk_24" />
+                        android:textSize="20sp"/>
 
                         <EditText
                             android:layout_width="300dp"

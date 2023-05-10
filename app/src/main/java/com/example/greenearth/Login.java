@@ -135,7 +135,7 @@ pw = findViewById(R.id.password);
 
                        Snackbar.make(findViewById(R.id.cards),"Welcome",Snackbar.LENGTH_LONG).show();
 
-                        Intent m = new Intent(v.getContext(), calculator.class);
+                        Intent m = new Intent(v.getContext(), fragies.class);
                         startActivity(m);
 
                     }
