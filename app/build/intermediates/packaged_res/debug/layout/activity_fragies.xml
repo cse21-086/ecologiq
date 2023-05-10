@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:overScrollMode="always"
+    tools:context=".fragies">
+
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        app:cardBackgroundColor="@color/black"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="360dp"
+        app:cardCornerRadius="40dp">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tibys"
+            android:layout_width="match_parent"
+            android:backgroundTint="#B60000"
+            android:layout_height="match_parent"
+            app:tabMode="scrollable"
+            app:tabIconTint="@color/teal_700"
+            app:tabIndicatorColor="@color/material_dynamic_neutral20"
+            app:tabIndicatorGravity="stretch"
+            app:tabSelectedTextColor="@color/white"
+            app:tabIndicatorAnimationMode="elastic"
+            app:tabIndicator="@drawable/tt"
+            android:gravity="fill"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/pager2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</FrameLayout>

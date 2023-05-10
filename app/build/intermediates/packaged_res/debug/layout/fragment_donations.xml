@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#052706"
+    tools:context=".Donations">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="15dp">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/box"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="15dp">
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="&quot;Your donation can plant the seeds of change for a greener tomorrow.&quot;"
+          android:gravity="center"
+          android:textColor="@color/white"
+          android:textSize="20dp"
+          android:paddingTop="200dp"
+          android:fontFamily="@font/amaticscbold"/>
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:fontFamily="@font/bebas"
+            android:gravity="center"
+            android:paddingTop="300dp"
+            android:text="$208,200"
+            android:textColor="@color/grey"
+            android:textSize="90dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:fontFamily="@font/bebas"
+            android:gravity="center"
+            android:paddingTop="300dp"
+            android:text="$208,200"
+            android:textColor="@color/white"
+            android:textSize="60dp" />
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="550dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="650dp"
+            android:layout_gravity="center"
+            android:fontFamily="@font/bebas"
+            android:gravity="center"
+            android:paddingTop="300dp"
+            android:text="Total donations from App users"
+            android:textColor="@android:color/holo_green_light"
+            android:textSize="25dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:orientation="vertical"
+    android:background="@drawable/linear"
+    android:layout_gravity="bottom">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:fontFamily="@font/khand_bold"
+                android:gravity="center"
+                android:text="Please choose an amount:"
+                android:textColor="@color/grey"
+                android:textSize="25dp" />
+
+<RadioGroup
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:orientation="vertical">
+
+
+
+    <RadioButton
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="40dp"
+        android:text="$ 50" />
+
+    <RadioButton
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="40dp"
+        android:text="$ 500" />
+
+    <RadioButton
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="40dp"
+        android:text="$ 10000" />
+
+</RadioGroup>
+
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:text="Donate"
+            android:backgroundTint="@android:color/holo_green_dark"
+            android:shadowRadius="8"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/creepster_regular"/>
+
+</LinearLayout>
+
+</FrameLayout>
