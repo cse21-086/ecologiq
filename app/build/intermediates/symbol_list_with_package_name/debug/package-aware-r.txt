@@ -2714,8 +2714,10 @@ drawable avd_hide_password
 drawable avd_show_password
 drawable bags
 drawable baseline_add_circle_24
+drawable baseline_announcement_24
 drawable baseline_arrow_back_24
 drawable baseline_arrow_forward_24
+drawable baseline_calculate_24
 drawable baseline_directions_walk_24
 drawable baseline_email_24
 drawable baseline_energy_savings_leaf_24
@@ -3071,8 +3073,10 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id button
 id buttonPanel
 id cache_measures
+id calculator
 id callMeasure
 id cancel_button
 id cards
@@ -3222,6 +3226,7 @@ id listMode
 id list_item
 id login
 id m3_side_sheet
+id mainpage
 id marquee
 id masked
 id match_constraint
@@ -3599,6 +3604,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_calculator
 layout activity_create_account
 layout activity_fragies
 layout activity_login
@@ -3620,10 +3626,10 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_announcements
 layout fragment_bags
 layout fragment_donations
 layout fragment_hats
-layout fragment_home
 layout fragment_hoodies
 layout fragment_main_interface
 layout fragment_market
@@ -4970,6 +4976,7 @@ style Widget_MaterialComponents_Toolbar_Surface
 style Widget_MaterialComponents_Tooltip
 style Widget_Support_CoordinatorLayout
 style cool
+style rebuke
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth

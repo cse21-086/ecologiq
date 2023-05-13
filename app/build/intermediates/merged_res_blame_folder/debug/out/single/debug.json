@@ -1,794 +1,798 @@
 [
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_facebook001.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\facebook001.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_hoodie1.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\hoodie1.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_cool_background.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\cool_background.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_indeterminate_check_box_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_indeterminate_check_box_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_imagery.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\imagery.xml"
     },
     {
-        "merged": "com.example.greenearth.app-merged_res-34:/drawable_tt.xml.flat",
-        "source": "com.example.greenearth.app-main-36:/drawable/tt.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_monoton_regular.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\monoton_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_google.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\google.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_rounded.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\rounded.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_cl_is_real.jpeg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\cl_is_real.jpeg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_shirts.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\shirts.jpg"
     },
     {
-        "merged": "com.example.greenearth.app-merged_res-34:/drawable_baseline_shopping_cart_24.xml.flat",
-        "source": "com.example.greenearth.app-main-36:/drawable/baseline_shopping_cart_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_products.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\products.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasanc_thinitalic.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasanc_thinitalic.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_wavy.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\wavy.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_dd.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\dd.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_bags.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\bags.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_mids.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\mids.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasansc_medium.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasansc_medium.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_pixel.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\pixel.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_intersect.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\intersect.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_dosis_extrabold.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\dosis_extrabold.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_titilliumweb_bold.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\titilliumweb_bold.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_secularone.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\secularone.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_donatehand.gif.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\donatehand.gif"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_ii.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\ii.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_hh.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\hh.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_distillation.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\distillation.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_titilliumweb_extralightitalic.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\titilliumweb_extralightitalic.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_colloriser.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\colloriser.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_donatebutton.gif.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\donatebutton.gif"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_news.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\news.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_holo.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\holo.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_fragment_others.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\fragment_others.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasanssc_thin.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasanssc_thin.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasanssc_regular.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasanssc_regular.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasanssc_black.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasanssc_black.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_facebook001.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\facebook001.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_titilliumweb_semibold.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\titilliumweb_semibold.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_climate.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\climate.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_texts.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\texts.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_bebas.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\bebas.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_refraction.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\refraction.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_titilliumweb_extralightitalic.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\titilliumweb_extralightitalic.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_titilliumweb_light.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\titilliumweb_light.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_person_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_person_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_dosis_extrabold.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\dosis_extrabold.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_fruit.gif.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\fruit.gif"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_khand_regular.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\khand_regular.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_cap.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\cap.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_blubluer.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\blubluer.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_activity_splash_screen.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_style_shirts.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\style_shirts.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_homepage.gif.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\homepage.gif"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_khand_bold.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\khand_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_directions_walk_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_directions_walk_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_cap.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\cap.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_titilliumweb_bolditalic.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\titilliumweb_bolditalic.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_lobstertworegular.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\lobstertworegular.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_ee.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\ee.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_sigmar.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\sigmar.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_amaticscbold.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\amaticscbold.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_intersect.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\intersect.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_dense.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\dense.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_art.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\art.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_sigmar.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\sigmar.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_titilliumweb_extralight.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\titilliumweb_extralight.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_climatechange_bags.webp.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\climatechange_bags.webp"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_dairy.gif.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\dairy.gif"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\mipmap-anydpi-v33\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_fumes.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\fumes.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_fragment_main_interface.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\fragment_main_interface.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_linear.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\linear.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasanssc_blackitalic.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasanssc_blackitalic.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_newsanimation.gif.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\newsanimation.gif"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_down.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\down.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_goldman_bold.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\goldman_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_pattern.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\pattern.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_dosis_semibold.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\dosis_semibold.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_compost.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\compost.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_titilliumweb_black.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\titilliumweb_black.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_mukta_light.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\mukta_light.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_titilliumweb_regular.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\titilliumweb_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_hh.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\hh.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_vegetable.gif.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\vegetable.gif"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_creepster_regular.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\creepster_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_aa.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\aa.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_dd.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\dd.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_hatter.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\hatter.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_dosis_semibold.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\dosis_semibold.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_ee.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\ee.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_fragment_newsfeed.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\fragment_newsfeed.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_titilliumweb_semibolditalic.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\titilliumweb_semibolditalic.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_person_pin_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_person_pin_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_fragment_bags.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\fragment_bags.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_newsletter.gif.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\newsletter.gif"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_up.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\up.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_refraction.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\refraction.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_fragment_market.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\fragment_market.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_style_shirts.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\style_shirts.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_fragment_hoodies.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\fragment_hoodies.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_titilliumweb_light.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\titilliumweb_light.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_mukta_extralight.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\mukta_extralight.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_climate.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\climate.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_merch.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\merch.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_khand_semibold.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\khand_semibold.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_wallpaper1.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\wallpaper1.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_gg.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\gg.png"
     },
     {
-        "merged": "com.example.greenearth.app-merged_res-34:/layout_activity_fragies.xml.flat",
-        "source": "com.example.greenearth.app-main-36:/layout/activity_fragies.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_up.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\up.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_calculate_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_calculate_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasanssc_extrabold.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasanssc_extrabold.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_airplane.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\airplane.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_grain.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\grain.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_titanoneregular.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\titanoneregular.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_shirts.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\shirts.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasanssc_lightitalic.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasanssc_lightitalic.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_shoping.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\shoping.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_cl_is_real.jpeg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\cl_is_real.jpeg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_products.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\products.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_leaves.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\leaves.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_google.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\google.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_add_circle_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_add_circle_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_amaticscregular.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\amaticscregular.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_newsanimation.gif.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\newsanimation.gif"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_blugreen.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\blugreen.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_peakpx.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\peakpx.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_activity_tabs.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\activity_tabs.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_valley.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\valley.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_dosis_medium.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\dosis_medium.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_person.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\person.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_art.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\art.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_titilliumweb_italic.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\titilliumweb_italic.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasanssc_bold.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasanssc_bold.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_amaticscbold.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\amaticscbold.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_fragment_main_interface.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\fragment_main_interface.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_fragment_donations.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\fragment_donations.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_creepster_regular.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\creepster_regular.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_bruno.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\bruno.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_indeterminate_check_box_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_indeterminate_check_box_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_security_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_security_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_wallpaper2.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\wallpaper2.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_lobstertwoitalic.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\lobstertwoitalic.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_gg.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\gg.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_orbitron.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\orbitron.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_bruno.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\bruno.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_bebas.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\bebas.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_holo.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\holo.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_seter.gif.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\seter.gif"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_add_circle_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_add_circle_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_secularone.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\secularone.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_activity_fragies.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\activity_fragies.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_colloriser.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\colloriser.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_airplane.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\airplane.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_hatter.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\hatter.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_garbage.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\garbage.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_scroll.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\scroll.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_bb.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\bb.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_person.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\person.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_wallpaper2.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\wallpaper2.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_peakpx.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\peakpx.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_shopping_cart_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_titilliumweb_regular.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\titilliumweb_regular.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_newsletter.gif.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\newsletter.gif"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_jj.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\jj.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_fumes.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\fumes.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_activity_create_account.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\activity_create_account.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_lobstertworegular.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\lobstertworegular.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_folded_shirts.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\folded_shirts.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\mipmap-anydpi-v33\\ic_launcher.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_scroll.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\scroll.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_titilliumweb_lightitalic.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\titilliumweb_lightitalic.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_cardview_gradients.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\cardview_gradients.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_merch.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\merch.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_shoppingbasket2.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\shoppingbasket2.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_blugreen.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\blugreen.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_titanoneregular.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\titanoneregular.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_shoping.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\shoping.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_garbage.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\garbage.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_ff.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\ff.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasanssc_lightitalic.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasanssc_lightitalic.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_diversity.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\diversity.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_diversity.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\diversity.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_amaticscregular.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\amaticscregular.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_blublack.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\blublack.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_person_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_wavy.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\wavy.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_news.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\news.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_arrow_forward_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_arrow_forward_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_litter.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\litter.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_fragment_hoodies.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\fragment_hoodies.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_renewable_energy.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\renewable_energy.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_cool_background.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\cool_background.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_vegetable.gif.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\vegetable.gif"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_fragment_donations.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\fragment_donations.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_titilliumweb_bolditalic.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\titilliumweb_bolditalic.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_hoodie.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\hoodie.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_announcement_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_announcement_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_monetization_on_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_monetization_on_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_fragment_others.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\fragment_others.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_chicken.gif.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\chicken.gif"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_climatechange_bags.webp.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\climatechange_bags.webp"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_reduce.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\reduce.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_monetization_on_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_monetization_on_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_orbitron.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\orbitron.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_person_pin_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_person_pin_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_titilliumweb_extralight.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\titilliumweb_extralight.ttf"
+        "merged": "com.example.greenearth.app-merged_res-33:/layout_activity_calculator.xml.flat",
+        "source": "com.example.greenearth.app-main-35:/layout/activity_calculator.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasanssc_light.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasanssc_light.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_gears.gif.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\gears.gif"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_fragment_market.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\fragment_market.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_manyleaves.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\manyleaves.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasanssc_thin.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasanssc_thin.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasanssc_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasanssc_mediumitalic.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_minibag.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\minibag.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_dosis.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\dosis.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_box.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\box.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_down.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\down.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasanssc_black.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasanssc_black.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_jj.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\jj.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_khand_medium.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\khand_medium.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_khand_light.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\khand_light.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_shoppingbasket.gif.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\shoppingbasket.gif"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_khand_semibold.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\khand_semibold.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_arrow_forward_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_arrow_forward_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_mids.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\mids.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_hats.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\hats.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_lobstertwoitalic.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\lobstertwoitalic.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_shirt1.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\shirt1.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_fragment_hats.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\fragment_hats.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_wallpaper1.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\wallpaper1.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_bb.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\bb.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasanssc_regular.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasanssc_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_texts.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\texts.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_goldman_bold.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\goldman_bold.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasansc_medium.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasansc_medium.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasanssc_bolditalic.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasanssc_bolditalic.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasanc_thinitalic.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasanc_thinitalic.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_fragment_bags.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\fragment_bags.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_compost.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\compost.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_people.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\people.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_grain.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\grain.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_blubluer.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\blubluer.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_homepage.gif.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\homepage.gif"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_mukta_extralight.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\mukta_extralight.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_mukta_regular.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\mukta_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_seter.gif.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\seter.gif"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasanssc_extrabolditalic.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasanssc_extrabolditalic.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_fragment_shirts.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\fragment_shirts.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_dosis_medium.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\dosis_medium.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_titilliumweb_italic.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\titilliumweb_italic.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_activity_fragies.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\activity_fragies.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_donatebutton.gif.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\donatebutton.gif"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_dosis_bold.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\dosis_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_circles.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\circles.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_aa.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\aa.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_leaves.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\leaves.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasanssc_extrabold.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasanssc_extrabold.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_valley2.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\valley2.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_perm_identity_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_perm_identity_24.xml"
     },
     {
-        "merged": "com.example.greenearth.app-merged_res-34:/drawable_baseline_feed_24.xml.flat",
-        "source": "com.example.greenearth.app-main-36:/drawable/baseline_feed_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_arrow_back_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_valley.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\valley.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_home_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_pixel.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\pixel.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_hoodie1.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\hoodie1.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasanssc_italic.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasanssc_italic.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_newspaper.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\newspaper.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_activity_reset_password.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\activity_reset_password.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_lineprogress.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\lineprogress.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_greenwall.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\greenwall.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_shoppingbasket2.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\shoppingbasket2.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_energy_savings_leaf_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_energy_savings_leaf_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_activity_create_account.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\activity_create_account.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_lineprogress.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\lineprogress.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_email_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_circles.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\circles.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_goldman_regular.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\goldman_regular.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_bags.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\bags.jpg"
     },
     {
-        "merged": "com.example.greenearth.app-merged_res-34:/drawable_baseline_home_24.xml.flat",
-        "source": "com.example.greenearth.app-main-36:/drawable/baseline_home_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_feed_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_feed_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_russoone.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\russoone.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_linear.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\linear.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_tops.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\tops.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_fragment_shirts.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\fragment_shirts.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_manyleaves.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\manyleaves.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_valley2.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\valley2.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_titilliumweb_semibold.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\titilliumweb_semibold.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_titilliumweb_bold.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\titilliumweb_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_shirt1.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\shirt1.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_fragment_newsfeed.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\fragment_newsfeed.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_email_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_email_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_box.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\box.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_fire.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\fire.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_shopping_cart_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_shopping_cart_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_khand_medium.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\khand_medium.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_cardview_gradients.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\cardview_gradients.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_mukta_light.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\mukta_light.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_khand_bold.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\khand_bold.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_distillation.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\distillation.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_russoone.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\russoone.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_dosis.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\dosis.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_pattern.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\pattern.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_tops.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\tops.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_titilliumweb_black.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\titilliumweb_black.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_energy_savings_leaf_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_energy_savings_leaf_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_rounded.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\rounded.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_people.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\people.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasanssc_extrabolditalic.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasanssc_extrabolditalic.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasanssc_bold.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasanssc_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_donatehand.gif.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\donatehand.gif"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_fragment_announcements.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\fragment_announcements.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasanssc_light.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasanssc_light.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_renewable_energy.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\renewable_energy.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_titilliumweb_lightitalic.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\titilliumweb_lightitalic.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_monoton_regular.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\monoton_regular.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_cc.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\cc.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_gears.gif.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\gears.gif"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_hoodie.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\hoodie.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_perm_identity_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_perm_identity_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_chicken.gif.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\chicken.gif"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_litter.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\litter.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_folded_shirts.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\folded_shirts.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_blublack.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\blublack.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_person_add_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_person_add_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_reduce.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\reduce.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_dosis_bold.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\dosis_bold.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_minibag.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\minibag.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_lobstertwo_bold.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\lobstertwo_bold.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_tt.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\tt.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_titilliumweb_semibolditalic.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\titilliumweb_semibolditalic.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_baseline_arrow_back_24.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\baseline_arrow_back_24.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_goldman_regular.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\goldman_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_fruit.gif.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\fruit.gif"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_dense.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\dense.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_ff.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\ff.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_imagery.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\imagery.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_newspaper.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\newspaper.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_directions_walk_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_directions_walk_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_security_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_security_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_fire.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\fire.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_progresbar.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\progresbar.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_khand_light.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\khand_light.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_khand_regular.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\khand_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_cc.png.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\cc.png"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_baseline_person_add_24.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\baseline_person_add_24.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_dairy.gif.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\dairy.gif"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_ii.png.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\ii.png"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_greenwall.jpg.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\greenwall.jpg"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_hats.jpg.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\hats.jpg"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_mukta_regular.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\mukta_regular.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasanssc_bolditalic.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasanssc_bolditalic.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_fragment_hats.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\fragment_hats.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasanssc_mediumitalic.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasanssc_mediumitalic.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\layout_activity_reset_password.xml.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\layout\\activity_reset_password.xml"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\font_alegreyasanssc_blackitalic.ttf.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\font\\alegreyasanssc_blackitalic.ttf"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_alegreyasanssc_italic.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\alegreyasanssc_italic.ttf"
     },
     {
-        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-merged_res-34:\\drawable_progresbar.xml.flat",
-        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\7.5\\com.example.greenearth.app-main-36:\\drawable\\progresbar.xml"
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\drawable_shoppingbasket.gif.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\drawable\\shoppingbasket.gif"
+    },
+    {
+        "merged": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-merged_res-33:\\font_lobstertwo_bold.ttf.flat",
+        "source": "C:\\Users\\cse21-037\\.gradle\\daemon\\8.0\\com.example.greenearth.app-main-35:\\font\\lobstertwo_bold.ttf"
     }
 ]

@@ -96,12 +96,12 @@ public class Create_Account extends AppCompatActivity implements View.OnClickLis
 
             if (full_name.getText().toString().isEmpty() && username.getText().toString().isEmpty() && password.getText().toString().isEmpty() && confirm_password.getText().toString().isEmpty() && email.getText().toString().isEmpty()){
 
-                Toast.makeText(Create_Account.this, "please fill in all fields", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(), "please fill in all fields", Toast.LENGTH_LONG).show();
             }
 
             else if (!password.equals(confirm_password)) {
 
-                Toast.makeText(Create_Account.this, "passwords do not match", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(), "passwords do not match", Toast.LENGTH_LONG).show();
 
             }
 

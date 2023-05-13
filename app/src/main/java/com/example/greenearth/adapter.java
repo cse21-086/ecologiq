@@ -21,27 +21,29 @@ public class adapter extends FragmentStateAdapter {
 
             return new main_interface();
 
-        } else if (position == 2) {
+        } else if (position == 1) {
 
             return new Donations();
 
-        }else if (position == 3) {
+        }else if (position == 2) {
 
             return new market();
 
-        }else if (position == 4) {
+        }else if (position == 3) {
 
             return new newsfeed();
 
-        }
+        } else if (position == 4) {
 
-        else return new main_interface();
+            return new Announcements();
+
+        } else return new main_interface();
 
     }
 
 
     @Override
     public int getItemCount() {
-        return 4;
+        return 5;
     }
 }

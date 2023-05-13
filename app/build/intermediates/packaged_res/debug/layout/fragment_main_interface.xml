@@ -4,9 +4,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:background="@drawable/blugreen"
+    android:id="@+id/mainpage"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".main_interface"
+
     android:layout_gravity="center_horizontal"
     android:orientation="vertical">
 
@@ -18,6 +20,7 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
         android:overScrollMode="always">
 
         <LinearLayout
@@ -65,20 +68,34 @@
 
 
             <RelativeLayout
-                android:layout_width="200dp"
-                android:layout_height="200dp"
+                android:layout_width="230dp"
+                android:layout_height="230dp"
                 android:layout_margin="30dp"
                 android:layout_gravity="center">
 
                 <ProgressBar
                     android:id="@+id/progressBar3"
                     style="@android:style/Widget.DeviceDefault.ProgressBar.Horizontal"
-                    android:layout_width="200dp"
-                    android:layout_height="200dp"
+                    android:layout_width="230dp"
+                    android:layout_height="230dp"
                     android:background="@drawable/circles"
                     android:indeterminate="false"
                     android:progressDrawable="@drawable/progresbar"
-                    android:textAlignment="center"/>
+                    android:textAlignment="center" />
+
+                <TextView
+
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="63dp"
+                    android:layout_marginTop="50dp"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:fontFamily="@font/dosis_medium"
+                    android:gravity="center"
+                    android:text="greenhouse gas emissions, measured in carbon dioxide equivalents (CO2e)"
+                    android:textColor="#5A635D"
+                    android:textSize="8dp" />
 
                 <TextView
                     android:id="@+id/status"
@@ -96,14 +113,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="@color/white"
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentRight="true"
                     android:layout_centerVertical="true"
                     android:gravity="center"
+                    android:fontFamily="@font/dosis_medium"
                     android:paddingTop="80dp"
                     android:text="Emmisions"
-                    android:textSize="10dp"/>
+                    android:textColor="#12C14C"
+                    android:textSize="10dp" />
 
             </RelativeLayout>
 
@@ -128,10 +146,9 @@
 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="30dp"
-            android:layout_marginEnd="30dp"
+            android:layout_marginStart="20dp"
             android:layout_gravity="center_vertical"
-            app:cardBackgroundColor="#446024"
+            app:cardBackgroundColor="#12C14C"
             app:cardCornerRadius="20dp"
             app:cardElevation="20dp">
 
@@ -166,7 +183,7 @@
                     android:drawablePadding="5dp"
                     android:text="Energy"
                     android:fontFamily="@font/secularone"
-                    android:textColor="@color/white"
+                    android:textColor="#6C2121"
                     android:textSize="15sp"/>
 
                 <com.google.android.material.progressindicator.LinearProgressIndicator
@@ -193,10 +210,9 @@
 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="30dp"
-            android:layout_marginEnd="30dp"
+            android:layout_marginStart="20dp"
            android:layout_gravity="center_vertical"
-            app:cardBackgroundColor="#446024"
+            app:cardBackgroundColor="#12C14C"
             app:cardCornerRadius="20dp"
             app:cardElevation="20dp">
 
@@ -230,7 +246,7 @@
                     android:drawablePadding="5dp"
                     android:text="Travel"
                     android:fontFamily="@font/secularone"
-                    android:textColor="@color/white"
+                    android:textColor="#6C2121"
                     android:textSize="15sp" />
 
                 <com.google.android.material.progressindicator.LinearProgressIndicator
@@ -258,10 +274,9 @@
 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="30dp"
-            android:layout_marginEnd="30dp"
+            android:layout_marginStart="20dp"
             android:layout_gravity="center_vertical"
-            app:cardBackgroundColor="#446024"
+            app:cardBackgroundColor="#12C14C"
             app:cardCornerRadius="20dp"
             app:cardElevation="20dp">
 
@@ -296,7 +311,7 @@
                     android:paddingLeft="10dp"
                     android:text="Householed"
                     android:fontFamily="@font/secularone"
-                    android:textColor="@color/white"
+                    android:textColor="#6C2121"
                     android:textSize="15sp"/>
 
                 <com.google.android.material.progressindicator.LinearProgressIndicator
@@ -323,10 +338,9 @@
 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="30dp"
-            android:layout_marginEnd="30dp"
+            android:layout_marginStart="20dp"
             android:layout_gravity="center_vertical"
-            app:cardBackgroundColor="#446024"
+            app:cardBackgroundColor="#12C14C"
             app:cardCornerRadius="20dp"
             app:cardElevation="20dp">
 
@@ -360,7 +374,7 @@
                     android:drawablePadding="5dp"
                     android:text="Products"
                     android:fontFamily="@font/secularone"
-                    android:textColor="@color/white"
+                    android:textColor="#6C2121"
                     android:textSize="15sp" />
 
 
@@ -390,10 +404,9 @@
 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="30dp"
-            android:layout_marginEnd="30dp"
+            android:layout_marginStart="20dp"
             android:layout_gravity="center_vertical"
-            app:cardBackgroundColor="#446024"
+            app:cardBackgroundColor="#12C14C"
             app:cardCornerRadius="20dp"
             app:cardElevation="20dp">
 
@@ -427,7 +440,7 @@
                     android:drawablePadding="5dp"
                     android:text="Waste"
                     android:fontFamily="@font/secularone"
-                    android:textColor="@color/white"
+                    android:textColor="#6C2121"
                     android:textSize="15sp"
                     />
 
@@ -456,20 +469,21 @@
 
 
 
+
 </LinearLayout>
 
 
 </HorizontalScrollView>
 
 
+
+
             <androidx.cardview.widget.CardView
 
-                android:layout_width="356dp"
-                android:layout_height="213dp"
+                android:layout_width="369dp"
+                android:layout_height="198dp"
                 android:layout_gravity="center_horizontal"
-                android:layout_margin="30dp"
-                android:padding="10dp"
-                app:cardBackgroundColor="#437708"
+                app:cardBackgroundColor="#12655631"
                 app:cardCornerRadius="50dp"
                 app:cardElevation="20dp">
 
@@ -485,7 +499,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
-                        android:drawablePadding="5dp"
                         android:paddingTop="10dp"
                         android:gravity="center"
                         android:text="Feedback and Recomendations"
@@ -494,14 +507,15 @@
                         android:textSize="20sp"/>
 
                         <EditText
-                            android:layout_width="300dp"
-                            android:layout_height="150dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="123dp"
                             android:layout_gravity="center"
                             android:layout_marginTop="10dp"
+                            android:enabled="false"
                             android:background="@drawable/colloriser"
                             android:fontFamily="@font/bebas"
-                            android:hint="Generating Feedback..........."
                             android:paddingLeft="5dp"
+                            android:textColor="@color/white"
                             android:scrollbars="horizontal"
                             android:scrollbarSize="5dp"
                             android:shadowColor="#80000000"
@@ -514,6 +528,18 @@
 
 
             </androidx.cardview.widget.CardView>
+
+            <Button
+                android:id="@+id/button"
+                android:layout_gravity="center"
+                android:layout_width="340dp"
+                android:gravity="center"
+                android:shadowRadius="10"
+                android:fontFamily="@font/creepster_regular"
+                android:backgroundTint="#8BC34A"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_calculate_24"
+                android:text="Calculator" />
 
         </LinearLayout>
 

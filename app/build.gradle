@@ -39,9 +39,10 @@ dependencies {
     implementation 'androidx.sqlite:sqlite:2.3.1'
     implementation "androidx.cardview:cardview:1.0.0"
     implementation 'com.google.android.material:material:1.8.0'
-    implementation files('C:\\Users\\cse21-037\\Downloads\\ojdbc11.jar')
     implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.5.1'
     implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1'
+    implementation files('C:\\Users\\cse21-037\\Desktop\\mysql-connector-java-8.0.30.jar')
+    implementation files("C:\\Users\\cse21-037\\OneDrive - Botswana Accountancy College\\workbook\\ojdbc11.jar")
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'

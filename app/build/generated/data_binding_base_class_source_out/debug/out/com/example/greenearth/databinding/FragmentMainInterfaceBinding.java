@@ -4,6 +4,7 @@ package com.example.greenearth.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
@@ -22,7 +23,13 @@ public final class FragmentMainInterfaceBinding implements ViewBinding {
   private final FrameLayout rootView;
 
   @NonNull
+  public final Button button;
+
+  @NonNull
   public final ImageView imageView6;
+
+  @NonNull
+  public final FrameLayout mainpage;
 
   @NonNull
   public final ProgressBar progressBar3;
@@ -30,10 +37,13 @@ public final class FragmentMainInterfaceBinding implements ViewBinding {
   @NonNull
   public final TextView status;
 
-  private FragmentMainInterfaceBinding(@NonNull FrameLayout rootView, @NonNull ImageView imageView6,
+  private FragmentMainInterfaceBinding(@NonNull FrameLayout rootView, @NonNull Button button,
+      @NonNull ImageView imageView6, @NonNull FrameLayout mainpage,
       @NonNull ProgressBar progressBar3, @NonNull TextView status) {
     this.rootView = rootView;
+    this.button = button;
     this.imageView6 = imageView6;
+    this.mainpage = mainpage;
     this.progressBar3 = progressBar3;
     this.status = status;
   }
@@ -65,11 +75,19 @@ public final class FragmentMainInterfaceBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.button;
+      Button button = ViewBindings.findChildViewById(rootView, id);
+      if (button == null) {
+        break missingId;
+      }
+
       id = R.id.imageView6;
       ImageView imageView6 = ViewBindings.findChildViewById(rootView, id);
       if (imageView6 == null) {
         break missingId;
       }
+
+      FrameLayout mainpage = (FrameLayout) rootView;
 
       id = R.id.progressBar3;
       ProgressBar progressBar3 = ViewBindings.findChildViewById(rootView, id);
@@ -83,8 +101,8 @@ public final class FragmentMainInterfaceBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentMainInterfaceBinding((FrameLayout) rootView, imageView6, progressBar3,
-          status);
+      return new FragmentMainInterfaceBinding((FrameLayout) rootView, button, imageView6, mainpage,
+          progressBar3, status);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

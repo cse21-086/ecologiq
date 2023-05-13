@@ -116,41 +116,16 @@ pw = findViewById(R.id.password);
                 Toast.makeText(Login.this, "please fill in all fields", Toast.LENGTH_LONG).show();
             } else {
 
-                try {
-                    Class.forName("oracle.jdbc.driver.OracleDriver");
-                    conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/project", "root", "");
-                    System.out.println("connected to database");
 
-                    String username = un.getText().toString();
-                    String password = pw.getText().toString();
+                Intent m = new Intent(v.getContext(), fragies.class);
+                startActivity(m);
 
 
-                    String verify = "SELECT Username, Password FROM  login WHERE Username=? AND  Password=?";
-                    prep = conn.prepareStatement(verify);
-                    prep.setString(1, username);
-                    prep.setString(2, password);
-
-                    ResultSet rs = prep.executeQuery();
-                    if (rs.next()) {
-
-                       Snackbar.make(findViewById(R.id.cards),"Welcome",Snackbar.LENGTH_LONG).show();
-
-                        Intent m = new Intent(v.getContext(), fragies.class);
-                        startActivity(m);
-
-                    }
-
-                }
-
-                catch(Exception err){
-                    System.out.println("Error connecting. database not found");
-                    Toast.makeText(Login.this,"Error sending details to database",Toast.LENGTH_LONG).show();
-                }
 
             }
 
+
         }
-
-
     }
 }
+

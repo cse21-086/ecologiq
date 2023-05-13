@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.greenearth.app-mergeDebugResources-32:/values-w820dp-v13/values-w820dp-v13.xml",
+            "outputFile": "com.example.greenearth.app-mergeDebugResources-31:/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\cse21-037\\AndroidStudioProjects\\GreenEarth\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "C:\\Users\\cse21-037\\3D Objects\\AndroidStudioProjects\\GreenEarth\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

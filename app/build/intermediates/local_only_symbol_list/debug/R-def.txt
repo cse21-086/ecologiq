@@ -19,8 +19,10 @@ drawable airplane
 drawable art
 drawable bags
 drawable baseline_add_circle_24
+drawable baseline_announcement_24
 drawable baseline_arrow_back_24
 drawable baseline_arrow_forward_24
+drawable baseline_calculate_24
 drawable baseline_directions_walk_24
 drawable baseline_email_24
 drawable baseline_energy_savings_leaf_24
@@ -179,6 +181,8 @@ font titilliumweb_lightitalic
 font titilliumweb_regular
 font titilliumweb_semibold
 font titilliumweb_semibolditalic
+id button
+id calculator
 id cards
 id change
 id content
@@ -191,6 +195,7 @@ id goback
 id ide
 id imageView6
 id login
+id mainpage
 id newpass
 id oldpass
 id pager2
@@ -209,15 +214,16 @@ id tibys
 id user
 id username
 id waste
+layout activity_calculator
 layout activity_create_account
 layout activity_fragies
 layout activity_login
 layout activity_reset_password
 layout activity_splash_screen
+layout fragment_announcements
 layout fragment_bags
 layout fragment_donations
 layout fragment_hats
-layout fragment_home
 layout fragment_hoodies
 layout fragment_main_interface
 layout fragment_market
@@ -255,5 +261,6 @@ style Theme.GreenEarth.AppBarOverlay
 style Theme.GreenEarth.NoActionBar
 style Theme.GreenEarth.PopupOverlay
 style cool
+style rebuke
 xml backup_rules
 xml data_extraction_rules

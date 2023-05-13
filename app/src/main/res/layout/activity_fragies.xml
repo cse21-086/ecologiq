@@ -6,27 +6,30 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/black"
     android:overScrollMode="always"
     tools:context=".fragies">
 
 
 
     <androidx.cardview.widget.CardView
-        android:layout_width="wrap_content"
+        android:layout_width="380dp"
         app:cardBackgroundColor="@color/black"
         android:layout_height="40dp"
-        android:layout_gravity="center"
-        android:layout_marginTop="360dp"
-        app:cardCornerRadius="40dp">
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="15dp"
+        app:cardCornerRadius="10dp">
 
         <com.google.android.material.tabs.TabLayout
             android:id="@+id/tibys"
             android:layout_width="match_parent"
-            android:backgroundTint="#B60000"
+            android:backgroundTint="#7C854C"
             android:layout_height="match_parent"
+            app:tabTextAppearance="@style/rebuke"
             app:tabMode="scrollable"
-            app:tabIconTint="@color/teal_700"
-            app:tabIndicatorColor="@color/material_dynamic_neutral20"
+            app:tabInlineLabel="true"
+            app:tabIconTint="#30EF07"
+            app:tabIndicatorColor="@color/teal_700"
             app:tabIndicatorGravity="stretch"
             app:tabSelectedTextColor="@color/white"
             app:tabIndicatorAnimationMode="elastic"
