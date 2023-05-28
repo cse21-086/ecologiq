@@ -25,6 +25,7 @@ public class reset_password extends AppCompatActivity implements View.OnClickLis
     SwitchMaterial sw;
 
     EditText UN;
+    EditText p1;
     EditText p2;
 
 
@@ -48,6 +49,8 @@ public class reset_password extends AppCompatActivity implements View.OnClickLis
         lg.setOnClickListener(this);
 
         UN = findViewById(R.id.username);
+
+p1=findViewById(R.id.old_password);
 
         p2 = findViewById(R.id.newpass);
 
@@ -92,30 +95,8 @@ public class reset_password extends AppCompatActivity implements View.OnClickLis
         }
                 else {
 
-                    try {
-                        Class.forName("com.mysql.cj.jdbc.Driver");
-                        connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/project","root","");
-                         System.out.println("Connected to database");
-
-                         String Username = UN.getText().toString();
-                         String Newpassword = p2.getText().toString();
-
-                         String pass = "update login set  Password=? where Username =?";
-
-
-                         preparedStatement=connection.prepareStatement(pass);
-                         preparedStatement.setString(1,Username);
-                         preparedStatement.setString(2,Newpassword);
-
-
-
-                    }
-                    catch (Exception err){
-
-                        System.out.println("unable to connect to database");
-                        Toast.makeText(reset_password.this,"Error sending details to database",Toast.LENGTH_LONG).show();
-                    }
-
+                  sql_helper ss = new sql_helper(reset_password.this);
+                  ss.updateuser(UN.getText().toString(), p1.getText().toString(),p2.getText().toString());
 
 
 

@@ -131,7 +131,7 @@
                 android:text="@string/show_password"/>
 
             <Button
-                android:id="@+id/sign_up"
+                android:onClick="proceed"
                 android:layout_width="167dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"

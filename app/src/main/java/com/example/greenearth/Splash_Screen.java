@@ -13,6 +13,8 @@ public class Splash_Screen extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         // Set the activity to full screen
+
+
         getWindow().setDecorFitsSystemWindows(false);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,
                 WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS);
@@ -26,6 +28,6 @@ public class Splash_Screen extends AppCompatActivity {
             startActivity(show);
 
             finish();
-        }, 10000);
+        }, 10000);//10seconds
     }
 }

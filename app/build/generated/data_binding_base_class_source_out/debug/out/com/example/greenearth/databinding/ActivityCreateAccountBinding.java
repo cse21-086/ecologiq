@@ -4,7 +4,6 @@ package com.example.greenearth.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
@@ -45,9 +44,6 @@ public final class ActivityCreateAccountBinding implements ViewBinding {
   public final EditText pw2;
 
   @NonNull
-  public final Button signUp;
-
-  @NonNull
   public final SwitchMaterial switch2;
 
   @NonNull
@@ -56,7 +52,7 @@ public final class ActivityCreateAccountBinding implements ViewBinding {
   private ActivityCreateAccountBinding(@NonNull LinearLayout rootView, @NonNull EditText email,
       @NonNull ImageView fb, @NonNull EditText fullUser, @NonNull ImageView gg,
       @NonNull ImageButton goback, @NonNull EditText pw, @NonNull EditText pw2,
-      @NonNull Button signUp, @NonNull SwitchMaterial switch2, @NonNull EditText user) {
+      @NonNull SwitchMaterial switch2, @NonNull EditText user) {
     this.rootView = rootView;
     this.email = email;
     this.fb = fb;
@@ -65,7 +61,6 @@ public final class ActivityCreateAccountBinding implements ViewBinding {
     this.goback = goback;
     this.pw = pw;
     this.pw2 = pw2;
-    this.signUp = signUp;
     this.switch2 = switch2;
     this.user = user;
   }
@@ -139,12 +134,6 @@ public final class ActivityCreateAccountBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.sign_up;
-      Button signUp = ViewBindings.findChildViewById(rootView, id);
-      if (signUp == null) {
-        break missingId;
-      }
-
       id = R.id.switch2;
       SwitchMaterial switch2 = ViewBindings.findChildViewById(rootView, id);
       if (switch2 == null) {
@@ -158,7 +147,7 @@ public final class ActivityCreateAccountBinding implements ViewBinding {
       }
 
       return new ActivityCreateAccountBinding((LinearLayout) rootView, email, fb, fullUser, gg,
-          goback, pw, pw2, signUp, switch2, user);
+          goback, pw, pw2, switch2, user);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

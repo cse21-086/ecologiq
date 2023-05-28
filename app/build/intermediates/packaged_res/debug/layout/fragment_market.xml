@@ -35,6 +35,17 @@
             android:textColor="@color/white"
             android:textSize="30dp"/>
 
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="The future belongs to those who take action against climate change, not just talk about it. Wear your message and inspire others. Climate change is not a fashion statement; it's a global crisis. Let's make sustainable choices in what we wear. - Unknown"
+            android:paddingTop="10dp"
+            android:fontFamily="@font/amaticscbold"
+            android:textColor="@color/white"
+            android:textSize="15dp"/>
+
 
         <LinearLayout
             android:layout_width="390dp"
@@ -88,43 +99,7 @@
         </LinearLayout>
 
 
-        <LinearLayout
-            android:layout_width="390dp"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:background="@drawable/shoping">
 
-            <androidx.cardview.widget.CardView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:background="@drawable/cardview_gradients"
-                app:cardElevation="2dp"
-                app:cardCornerRadius="40dp">
-
-                <ImageView
-                    android:layout_width="400dp"
-                    android:layout_height="320dp"
-                    android:layout_gravity="center"
-                    android:src="@drawable/shirts"
-                    android:scaleType="centerInside"/>
-
-                <View
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:background="@drawable/cardview_gradients"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="shirts"
-                    android:fontFamily="@font/khand_bold"
-                    android:textColor="@color/white"
-                    android:layout_gravity="center"
-                    android:textSize="20dp"/>
-
-            </androidx.cardview.widget.CardView>
-
-        </LinearLayout>
 
         <LinearLayout
             android:layout_width="390dp"
@@ -166,46 +141,7 @@
         </LinearLayout>
 
 
-        <LinearLayout
-            android:layout_width="390dp"
-            android:layout_height="200dp"
-            android:layout_marginTop="10dp"
-            android:background="@drawable/shoping">
 
-            <androidx.cardview.widget.CardView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:background="@drawable/cardview_gradients"
-                app:cardElevation="2dp"
-                app:cardCornerRadius="40dp">
-
-                <ImageView
-                    android:layout_width="390dp"
-                    android:layout_height="220dp"
-                    android:layout_gravity="center"
-                    android:src="@drawable/hoodie"
-                    android:scaleType="centerInside"/>
-
-                <View
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:background="@drawable/cardview_gradients"/>
-
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Hoodies"
-                    android:fontFamily="@font/khand_bold"
-                    android:textColor="@color/white"
-                    android:layout_gravity="center"
-                    android:textSize="20dp"/>
-
-
-
-            </androidx.cardview.widget.CardView>
-
-        </LinearLayout>
 
         <LinearLayout
             android:layout_width="390dp"

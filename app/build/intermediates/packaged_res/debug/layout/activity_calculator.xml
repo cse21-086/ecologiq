@@ -35,13 +35,14 @@
                 android:layout_margin="30dp"
                 android:padding="10dp"
                 app:cardBackgroundColor="#446024"
-                app:cardCornerRadius="50dp"
+                app:cardCornerRadius="10dp"
                 app:cardElevation="20dp">
 
                 <LinearLayout
                     android:layout_width="295dp"
                     android:layout_height="wrap_content"
                     android:orientation="vertical">
+
 
 
                     <TextView
@@ -52,8 +53,7 @@
                         android:text="@string/travel_statistics"
                         android:textColor="@color/white"
                         android:textSize="23sp"
-                        android:fontFamily="@font/goldman_bold"
-                        android:drawableLeft="@drawable/baseline_directions_walk_24"/>
+                        android:fontFamily="@font/alegreyasansc_medium"/>
 
 
                     <TextView
@@ -65,12 +65,7 @@
                         android:textColor="@color/black"
                         android:textSize="15sp"
                         android:fontFamily="@font/mukta_regular"
-                        android:textStyle="bold" />
-
-                    <Spinner
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center" />
+                        android:textStyle="bold"/>
 
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
@@ -83,8 +78,8 @@
                 android:layout_gravity="center"
                 android:layout_margin="30dp"
                 android:paddingTop="5dp"
-                app:cardBackgroundColor="@android:color/holo_green_dark"
-                app:cardCornerRadius="50dp"
+                app:cardBackgroundColor="#446024"
+                app:cardCornerRadius="10dp"
                 app:cardElevation="20dp">
 
                 <LinearLayout
@@ -101,7 +96,7 @@
                         android:text="@string/energy_usage"
                         android:textColor="@color/white"
                         android:textSize="23sp"
-                        android:fontFamily="@font/goldman_bold"/>
+                        android:fontFamily="@font/alegreyasansc_medium"/>
 
 
                     <TextView
@@ -136,7 +131,7 @@
                             android:textStyle="bold" />
 
                         <com.google.android.material.slider.RangeSlider
-                            android:id="@+id/slide"
+                            android:id="@+id/work"
                             android:layout_width="200dp"
                             android:layout_height="50dp"
                             android:layout_gravity="center"
@@ -148,7 +143,6 @@
                             app:thumbColor="@color/material_dynamic_neutral20"
                             app:thumbElevation="8dp"
                             app:thumbRadius="12dp"
-                            app:trackColor="@color/grey"
                             app:trackHeight="3dp" />
 
 
@@ -186,7 +180,7 @@
 
 
                         <com.google.android.material.slider.RangeSlider
-                            android:id="@+id/ide"
+                            android:id="@+id/home"
                             android:layout_width="200dp"
                             android:layout_height="50dp"
                             android:layout_gravity="center"
@@ -198,7 +192,6 @@
                             app:thumbColor="@color/material_dynamic_neutral20"
                             app:thumbElevation="8dp"
                             app:thumbRadius="12dp"
-                            app:trackColor="?android:attr/colorMultiSelectHighlight"
                             app:trackHeight="3dp" />
 
 
@@ -215,8 +208,8 @@
                 android:layout_gravity="center"
                 android:layout_margin="30dp"
                 android:layout_marginTop="10dp"
-                app:cardBackgroundColor="@color/material_on_surface_emphasis_medium"
-                app:cardCornerRadius="50dp"
+                app:cardBackgroundColor="#446024"
+                app:cardCornerRadius="10dp"
                 app:cardElevation="20dp">
 
                 <LinearLayout
@@ -229,10 +222,10 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:fontFamily="@font/alegreyasansc_medium"
                         android:text="@string/number_of_household_members"
                         android:textAlignment="center"
-                        android:textColor="@android:color/holo_green_dark"
-                        android:fontFamily="@font/goldman_bold"
+                        android:textColor="#ffffff"
                         android:textSize="15sp" />
 
                     <LinearLayout
@@ -250,13 +243,18 @@
                             android:src="@drawable/baseline_add_circle_24" />
 
                         <EditText
-                            android:layout_width="50dp"
-                            android:layout_height="50dp"
+                            android:id="@+id/members"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
                             android:background="#183319"
                             android:hint="15"
+                            android:textAlignment="center"
+                            android:layout_marginTop="5dp"
+                            android:fontFamily="@font/khand_bold"
                             android:textColor="@color/white"
+                            android:gravity="center"
                             android:textColorHint="@color/white"
-                            android:textSize="40dp" />
+                            android:textSize="30dp" />
 
                         <ImageView
                             android:layout_width="wrap_content"
@@ -279,8 +277,8 @@
                 android:layout_gravity="center"
                 android:layout_margin="30dp"
                 android:layout_marginTop="10dp"
-                app:cardBackgroundColor="@android:color/holo_green_dark"
-                app:cardCornerRadius="50dp"
+                app:cardBackgroundColor="#446024"
+                app:cardCornerRadius="10dp"
                 app:cardElevation="20dp">
 
                 <LinearLayout
@@ -294,8 +292,8 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:text="Product consuming"
-                        android:textColor="@color/grey"
-                        android:fontFamily="@font/goldman_bold"
+                        android:textColor="#ffffff"
+                        android:fontFamily="@font/alegreyasansc_medium"
                         android:textSize="23sp" />
 
                     <HorizontalScrollView
@@ -315,14 +313,16 @@
                                 android:orientation="horizontal">
 
                                 <ImageView
+                                    android:clickable="false"
                                     android:layout_width="50dp"
                                     android:layout_height="50dp"
                                     android:layout_marginLeft="5dp"
                                     android:onClick="meat"
-                                    android:background="@drawable/imagery"
+
                                     android:src="@drawable/chicken"/>
 
                                 <CheckBox
+                                    android:id="@+id/meat"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginLeft="5dp" />
@@ -335,14 +335,16 @@
                                 android:orientation="horizontal">
 
                                 <ImageView
+                                    android:clickable="false"
                                     android:layout_width="50dp"
                                     android:layout_height="50dp"
                                     android:layout_marginLeft="5dp"
                                     android:src="@drawable/dairy"
-                                    android:background="@drawable/imagery"
+
                                     android:onClick="dairy" />
 
                                 <CheckBox
+                                    android:id="@+id/dairy"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginLeft="5dp" />
@@ -355,14 +357,15 @@
                                 android:orientation="horizontal">
 
                                 <ImageView
+                                    android:clickable="false"
                                     android:layout_width="50dp"
                                     android:layout_height="50dp"
                                     android:layout_marginLeft="5dp"
                                     android:src="@drawable/fruit"
-                                    android:background="@drawable/imagery"
                                     android:onClick="fruits" />
 
                                 <CheckBox
+                                    android:id="@+id/fruit"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginLeft="5dp"/>
@@ -374,14 +377,15 @@
                                 android:layout_height="wrap_content">
 
                                 <ImageView
+                                    android:clickable="false"
                                     android:layout_width="50dp"
                                     android:layout_height="50dp"
                                     android:layout_marginLeft="5dp"
                                     android:src="@drawable/vegetable"
-                                    android:background="@drawable/imagery"
                                     android:onClick="Vegetables"/>
 
                                 <CheckBox
+                                    android:id="@+id/veg"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginLeft="5dp" />
@@ -392,14 +396,15 @@
                                 android:layout_height="wrap_content">
 
                                 <ImageView
+                                    android:clickable="false"
                                     android:layout_width="50dp"
                                     android:layout_height="50dp"
                                     android:layout_marginLeft="5dp"
                                     android:src="@drawable/grain"
-                                    android:background="@drawable/imagery"
                                     android:onClick="grains" />
 
                                 <CheckBox
+                                    android:id="@+id/grains"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginLeft="5dp" />
@@ -417,6 +422,7 @@
                                     android:onClick="processed_food" />
 
                                 <CheckBox
+                                    android:id="@+id/processed"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginLeft="5dp" />
@@ -436,9 +442,8 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_margin="30dp"
-                android:layout_marginTop="10dp"
-                app:cardBackgroundColor="?android:attr/textColorTertiary"
-                app:cardCornerRadius="50dp"
+                app:cardBackgroundColor="#446024"
+                app:cardCornerRadius="10dp"
                 app:cardElevation="20dp">
                 <ScrollView
                     android:layout_width="wrap_content"
@@ -458,10 +463,10 @@
                             <TextView
                                 android:layout_width="250dp"
                                 android:layout_height="wrap_content"
-                                android:fontFamily="@font/goldman_bold"
+                                android:fontFamily="@font/alegreyasansc_medium"
                                 android:gravity="center"
                                 android:text="@string/waste_production"
-                                android:textColor="@android:color/holo_green_dark"
+                                android:textColor="#ffffff"
                                 android:textSize="23sp" />
 
                         </LinearLayout>
@@ -519,7 +524,6 @@
                                         app:thumbColor="@color/material_dynamic_neutral20"
                                         app:thumbElevation="8dp"
                                         app:thumbRadius="12dp"
-                                        app:trackColor="#FF5722"
                                         app:trackHeight="3dp" />
 
 
@@ -569,6 +573,7 @@
                                             android:layout_height="wrap_content">
 
                                             <ImageView
+                                                android:clickable="false"
                                                 android:layout_width="50dp"
                                                 android:layout_height="50dp"
                                                 android:layout_marginLeft="5dp"
@@ -577,6 +582,7 @@
                                                 android:src="@drawable/fire"/>
 
                                             <CheckBox
+                                                android:id="@+id/burn"
                                                 android:layout_width="wrap_content"
                                                 android:layout_height="wrap_content"
                                                 android:layout_marginLeft="5dp"
@@ -589,6 +595,7 @@
                                             android:layout_height="wrap_content">
 
                                             <ImageView
+                                                android:clickable="false"
                                                 android:layout_width="50dp"
                                                 android:layout_height="50dp"
                                                 android:layout_marginLeft="5dp"
@@ -597,6 +604,7 @@
                                                 android:src="@drawable/compost"/>
 
                                             <CheckBox
+                                                android:id="@+id/compost"
                                                 android:layout_width="wrap_content"
                                                 android:layout_height="wrap_content"
                                                 android:scaleX="2"
@@ -611,6 +619,7 @@
                                             android:layout_height="wrap_content">
 
                                             <ImageView
+                                                android:clickable="false"
                                                 android:layout_width="50dp"
                                                 android:layout_height="50dp"
                                                 android:layout_marginLeft="5dp"
@@ -619,6 +628,7 @@
                                                 android:src="@drawable/litter"/>
 
                                             <CheckBox
+                                                android:id="@+id/bin"
                                                 android:layout_width="wrap_content"
                                                 android:layout_height="wrap_content"
                                                 android:scaleX="2"
@@ -639,6 +649,7 @@
                                                 android:src="@drawable/person"/>
 
                                             <CheckBox
+                                                android:id="@+id/litter"
                                                 android:layout_width="wrap_content"
                                                 android:layout_height="wrap_content"
                                                 android:scaleX="2"
@@ -654,6 +665,7 @@
                                             android:layout_height="wrap_content">
 
                                             <ImageView
+                                                android:clickable="false"
                                                 android:layout_width="50dp"
                                                 android:layout_height="50dp"
                                                 android:layout_marginLeft="5dp"
@@ -662,6 +674,7 @@
                                                 android:src="@drawable/reduce"/>
 
                                             <CheckBox
+                                                android:id="@+id/three_r"
                                                 android:layout_width="wrap_content"
                                                 android:layout_height="wrap_content"
                                                 android:scaleX="1.7"

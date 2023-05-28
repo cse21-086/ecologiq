@@ -4,6 +4,8 @@ package com.example.greenearth.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.CheckBox;
+import android.widget.EditText;
 import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -21,24 +23,76 @@ public final class ActivityCalculatorBinding implements ViewBinding {
   private final FrameLayout rootView;
 
   @NonNull
+  public final CheckBox bin;
+
+  @NonNull
+  public final CheckBox burn;
+
+  @NonNull
   public final FrameLayout calculator;
 
   @NonNull
-  public final RangeSlider ide;
+  public final CheckBox compost;
 
   @NonNull
-  public final RangeSlider slide;
+  public final CheckBox dairy;
+
+  @NonNull
+  public final CheckBox fruit;
+
+  @NonNull
+  public final CheckBox grains;
+
+  @NonNull
+  public final RangeSlider home;
+
+  @NonNull
+  public final CheckBox litter;
+
+  @NonNull
+  public final CheckBox meat;
+
+  @NonNull
+  public final EditText members;
+
+  @NonNull
+  public final CheckBox processed;
+
+  @NonNull
+  public final CheckBox threeR;
+
+  @NonNull
+  public final CheckBox veg;
 
   @NonNull
   public final Slider waste;
 
-  private ActivityCalculatorBinding(@NonNull FrameLayout rootView, @NonNull FrameLayout calculator,
-      @NonNull RangeSlider ide, @NonNull RangeSlider slide, @NonNull Slider waste) {
+  @NonNull
+  public final RangeSlider work;
+
+  private ActivityCalculatorBinding(@NonNull FrameLayout rootView, @NonNull CheckBox bin,
+      @NonNull CheckBox burn, @NonNull FrameLayout calculator, @NonNull CheckBox compost,
+      @NonNull CheckBox dairy, @NonNull CheckBox fruit, @NonNull CheckBox grains,
+      @NonNull RangeSlider home, @NonNull CheckBox litter, @NonNull CheckBox meat,
+      @NonNull EditText members, @NonNull CheckBox processed, @NonNull CheckBox threeR,
+      @NonNull CheckBox veg, @NonNull Slider waste, @NonNull RangeSlider work) {
     this.rootView = rootView;
+    this.bin = bin;
+    this.burn = burn;
     this.calculator = calculator;
-    this.ide = ide;
-    this.slide = slide;
+    this.compost = compost;
+    this.dairy = dairy;
+    this.fruit = fruit;
+    this.grains = grains;
+    this.home = home;
+    this.litter = litter;
+    this.meat = meat;
+    this.members = members;
+    this.processed = processed;
+    this.threeR = threeR;
+    this.veg = veg;
     this.waste = waste;
+    this.work = work;
   }
 
   @Override
@@ -68,17 +122,83 @@ public final class ActivityCalculatorBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      FrameLayout calculator = (FrameLayout) rootView;
-
-      id = R.id.ide;
-      RangeSlider ide = ViewBindings.findChildViewById(rootView, id);
-      if (ide == null) {
+      id = R.id.bin;
+      CheckBox bin = ViewBindings.findChildViewById(rootView, id);
+      if (bin == null) {
         break missingId;
       }
 
-      id = R.id.slide;
-      RangeSlider slide = ViewBindings.findChildViewById(rootView, id);
-      if (slide == null) {
+      id = R.id.burn;
+      CheckBox burn = ViewBindings.findChildViewById(rootView, id);
+      if (burn == null) {
+        break missingId;
+      }
+
+      FrameLayout calculator = (FrameLayout) rootView;
+
+      id = R.id.compost;
+      CheckBox compost = ViewBindings.findChildViewById(rootView, id);
+      if (compost == null) {
+        break missingId;
+      }
+
+      id = R.id.dairy;
+      CheckBox dairy = ViewBindings.findChildViewById(rootView, id);
+      if (dairy == null) {
+        break missingId;
+      }
+
+      id = R.id.fruit;
+      CheckBox fruit = ViewBindings.findChildViewById(rootView, id);
+      if (fruit == null) {
+        break missingId;
+      }
+
+      id = R.id.grains;
+      CheckBox grains = ViewBindings.findChildViewById(rootView, id);
+      if (grains == null) {
+        break missingId;
+      }
+
+      id = R.id.home;
+      RangeSlider home = ViewBindings.findChildViewById(rootView, id);
+      if (home == null) {
+        break missingId;
+      }
+
+      id = R.id.litter;
+      CheckBox litter = ViewBindings.findChildViewById(rootView, id);
+      if (litter == null) {
+        break missingId;
+      }
+
+      id = R.id.meat;
+      CheckBox meat = ViewBindings.findChildViewById(rootView, id);
+      if (meat == null) {
+        break missingId;
+      }
+
+      id = R.id.members;
+      EditText members = ViewBindings.findChildViewById(rootView, id);
+      if (members == null) {
+        break missingId;
+      }
+
+      id = R.id.processed;
+      CheckBox processed = ViewBindings.findChildViewById(rootView, id);
+      if (processed == null) {
+        break missingId;
+      }
+
+      id = R.id.three_r;
+      CheckBox threeR = ViewBindings.findChildViewById(rootView, id);
+      if (threeR == null) {
+        break missingId;
+      }
+
+      id = R.id.veg;
+      CheckBox veg = ViewBindings.findChildViewById(rootView, id);
+      if (veg == null) {
         break missingId;
       }
 
@@ -88,7 +208,14 @@ public final class ActivityCalculatorBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityCalculatorBinding((FrameLayout) rootView, calculator, ide, slide, waste);
+      id = R.id.work;
+      RangeSlider work = ViewBindings.findChildViewById(rootView, id);
+      if (work == null) {
+        break missingId;
+      }
+
+      return new ActivityCalculatorBinding((FrameLayout) rootView, bin, burn, calculator, compost,
+          dairy, fruit, grains, home, litter, meat, members, processed, threeR, veg, waste, work);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

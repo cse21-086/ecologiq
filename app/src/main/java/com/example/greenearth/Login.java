@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.sql.*;
 import android.content.Intent;
 
+import android.database.sqlite.SQLiteOpenHelper;
 import android.os.Bundle;
 import android.text.InputType;
 import android.view.View;
@@ -17,6 +18,7 @@ import android.widget.Toast;
 
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.switchmaterial.SwitchMaterial;
+
 
 
 public class Login extends AppCompatActivity implements View.OnClickListener, CompoundButton.OnCheckedChangeListener {
@@ -111,19 +113,16 @@ pw = findViewById(R.id.password);
 
         if (j == R.id.login) {
 
+
             if (un.getText().toString().isEmpty() && pw.getText().toString().isEmpty()) {
 
                 Toast.makeText(Login.this, "please fill in all fields", Toast.LENGTH_LONG).show();
-            } else {
-
-
-                Intent m = new Intent(v.getContext(), fragies.class);
-                startActivity(m);
-
-
-
             }
 
+            else {
+                sql_helper sq = new sql_helper(this);
+                sq.verifyUser(un.getText().toString(),pw.getText().toString(),this);
+            }
 
         }
     }

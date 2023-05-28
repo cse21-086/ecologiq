@@ -12,12 +12,15 @@ import com.google.android.material.tabs.TabLayout;
 
 public class fragies extends AppCompatActivity {
 
+
+
     private TabLayout tl;
     private ViewPager2 v2;
     private  adapter adr;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fragies);

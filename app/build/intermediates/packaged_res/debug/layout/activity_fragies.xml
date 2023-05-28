@@ -10,8 +10,6 @@
     android:overScrollMode="always"
     tools:context=".fragies">
 
-
-
     <androidx.cardview.widget.CardView
         android:layout_width="380dp"
         app:cardBackgroundColor="@color/black"
@@ -23,13 +21,14 @@
         <com.google.android.material.tabs.TabLayout
             android:id="@+id/tibys"
             android:layout_width="match_parent"
-            android:backgroundTint="#7C854C"
+            android:backgroundTint="@color/grey"
             android:layout_height="match_parent"
             app:tabTextAppearance="@style/rebuke"
             app:tabMode="scrollable"
+            app:tabTextColor="#FFC107"
             app:tabInlineLabel="true"
-            app:tabIconTint="#30EF07"
-            app:tabIndicatorColor="@color/teal_700"
+            app:tabIconTint="#FFFFFF"
+            app:tabIndicatorColor="#B96CE402"
             app:tabIndicatorGravity="stretch"
             app:tabSelectedTextColor="@color/white"
             app:tabIndicatorAnimationMode="elastic"

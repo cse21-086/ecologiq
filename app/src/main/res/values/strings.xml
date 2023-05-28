@@ -21,15 +21,8 @@
     <string name="energy_usage">Energy Usage</string>
     <string name="product_consumption" />
     <string name="product_consuming">product_consuming</string>
-    <string-array name="travel">
-        <item>Bus</item>
-        <item>Bicycle</item>
-        <item>Foot</item>
-        <item>Personal Car</item>
-        <item>Taxi</item>
-        <item>All of the above</item>
-    </string-array>
-    <string name="title_activity_main">MainActivity</string>
+       <string name="title_activity_main">MainActivity</string>
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
+    <string name="select" >select item</string>
 </resources>

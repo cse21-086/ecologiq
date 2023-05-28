@@ -12,7 +12,7 @@ import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
-import java.sql.*;
+
 
 import com.google.android.material.switchmaterial.SwitchMaterial;
 
@@ -21,16 +21,11 @@ public class Create_Account extends AppCompatActivity implements View.OnClickLis
     ImageButton ib;
 
     SwitchMaterial sw;
-
-
     EditText full_name;
     EditText username;
     EditText password;
     EditText confirm_password;
     EditText email;
-
-    Connection cr;
-    PreparedStatement PS;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -81,6 +76,36 @@ public class Create_Account extends AppCompatActivity implements View.OnClickLis
 
     }
 
+    public void proceed(View v){
+
+        String fn = full_name.getText().toString();
+        String un = username.getText().toString();
+        String ps = password.getText().toString();
+        String em = email.getText().toString();
+        String cp = confirm_password.getText().toString();
+
+
+        if (fn.isEmpty() || un.isEmpty() || ps.isEmpty() || em.isEmpty()){
+
+            Toast.makeText(Create_Account.this, "please fill in all fields", Toast.LENGTH_LONG).show();
+        }
+        else if (!ps.equals(cp)) {
+
+            Toast.makeText(Create_Account.this, "passwords do not match", Toast.LENGTH_LONG).show();
+
+        }
+
+        else {
+
+            sql_helper sq = new sql_helper(Create_Account.this);
+
+            sq.adduser(full_name.getText().toString(), username.getText().toString(),
+                    password.getText().toString(), email.getText().toString().trim());
+
+        }
+
+    }
+
     @Override
     public void onClick(View v) {
         int id = v.getId();
@@ -91,65 +116,7 @@ public class Create_Account extends AppCompatActivity implements View.OnClickLis
             startActivity(m);
 
 
-        } else if (id == R.id.sign_up) {
-
-
-            if (full_name.getText().toString().isEmpty() && username.getText().toString().isEmpty() && password.getText().toString().isEmpty() && confirm_password.getText().toString().isEmpty() && email.getText().toString().isEmpty()){
-
-                Toast.makeText(getApplicationContext(), "please fill in all fields", Toast.LENGTH_LONG).show();
-            }
-
-            else if (!password.equals(confirm_password)) {
-
-                Toast.makeText(getApplicationContext(), "passwords do not match", Toast.LENGTH_LONG).show();
-
-            }
-
-            else {
-                   try {
-                       Class.forName("com.mysql.cj.jdbc.Driver");
-                       cr=DriverManager.getConnection("jdbc:mysql://localhost:3306/project", "root", "");
-                       System.out.println("connected to database");
-
-                       String Fullname=full_name.getText().toString();
-                       String Username=username.getText().toString();
-                       String Password=password.getText().toString();
-                       String Confrimation=confirm_password.getText().toString();
-                       String Email=email.getText().toString();
-
-                       String verify="Insert into login (Fullname, Username, Password, Email)  values (?,?,?,?)";
-                       PS=cr.prepareStatement(verify);
-                       PS.setString(1,Fullname);
-                       PS.setString(2,Username);
-                       PS.setString(3,Password);
-                       PS.setString(4,Confrimation);
-                       PS.setString(5,Email);
-
-                       int b = PS.executeUpdate();
-
-                       if (b>0) {
-
-                           Toast.makeText(Create_Account.this, "Account has been created successfully", Toast.LENGTH_LONG).show();
-                                  Intent j = new Intent(v.getContext(), Login.class);
-                                  startActivity(j);
-                       }
-
-                       else Toast.makeText(Create_Account.this, "An error occurred please Try again", Toast.LENGTH_LONG ).show();
-                   }
-
-
-                   catch (Exception err){
-
-                        System.out.println("unable to connect to the database");
-                        Toast.makeText(Create_Account.this,"Error sending details to database",Toast.LENGTH_LONG).show();
-
-                       }
-
-
-
-
-            }
-
         }
+
     }
 }
