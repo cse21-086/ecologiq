@@ -32,7 +32,7 @@ public final class ActivityResetPasswordBinding implements ViewBinding {
   public final EditText newpass;
 
   @NonNull
-  public final EditText oldpass;
+  public final EditText oldPassword;
 
   @NonNull
   public final SwitchMaterial switch2;
@@ -41,13 +41,13 @@ public final class ActivityResetPasswordBinding implements ViewBinding {
   public final EditText username;
 
   private ActivityResetPasswordBinding(@NonNull LinearLayout rootView, @NonNull Button change,
-      @NonNull ImageButton goback, @NonNull EditText newpass, @NonNull EditText oldpass,
+      @NonNull ImageButton goback, @NonNull EditText newpass, @NonNull EditText oldPassword,
       @NonNull SwitchMaterial switch2, @NonNull EditText username) {
     this.rootView = rootView;
     this.change = change;
     this.goback = goback;
     this.newpass = newpass;
-    this.oldpass = oldpass;
+    this.oldPassword = oldPassword;
     this.switch2 = switch2;
     this.username = username;
   }
@@ -97,9 +97,9 @@ public final class ActivityResetPasswordBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.oldpass;
-      EditText oldpass = ViewBindings.findChildViewById(rootView, id);
-      if (oldpass == null) {
+      id = R.id.old_password;
+      EditText oldPassword = ViewBindings.findChildViewById(rootView, id);
+      if (oldPassword == null) {
         break missingId;
       }
 
@@ -116,7 +116,7 @@ public final class ActivityResetPasswordBinding implements ViewBinding {
       }
 
       return new ActivityResetPasswordBinding((LinearLayout) rootView, change, goback, newpass,
-          oldpass, switch2, username);
+          oldPassword, switch2, username);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
